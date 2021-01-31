@@ -25,5 +25,6 @@ sysupgrade tmp/<你的文件名>.img
 如果出现各种奇奇怪怪的问题，那么我还是劝你重新卡刷，耗子尾汁，不要搞窝里斗。
 
 ```
-本文作者thomaswcy，在此特别感谢所有对OpenWrt/LEDE有贡献的大佬（Lean，DHDAXCW，东东，...）
+本文作者thomaswcy，在此特别感谢所有对OpenWrt/LEDE有贡献的大佬（Lean，骷髅大佬，东东，...）
 ```
+还有一件事，我特别建议你给骷髅大佬端杯茶
