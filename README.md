@@ -14,7 +14,7 @@ WinScp 下载链接 https://wws.lanzous.com/ivi2ql56mod
 
 注意，<>内的内容请根据img文件名自行修改
 
-```go
+```
 sysupgrade tmp/<你的文件名>.img
 ```
 
