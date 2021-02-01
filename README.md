@@ -15,7 +15,7 @@ WinScp 下载链接 https://wws.lanzous.com/ivi2ql56mod
 注意，<>内的内容请根据img文件名自行修改
 
 ```
-sysupgrade tmp/<你的文件名>.img
+sysupgrade /tmp/<你的文件名>.img
 ```
 
 点击执行，稍等几秒会出现一个弹窗。在弹窗中，选择确定。
