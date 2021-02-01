@@ -1,5 +1,4 @@
 # op-direct-upgrade
-[![Page Views Count](https://badges.toozhao.com/badges/01EXDGR6YMQMV2P89D6WS7EW3Q/green.svg)](https://badges.toozhao.com/stats/01EXDGR6YMQMV2P89D6WS7EW3Q "Get your own page views count badge on badges.toozhao.com")
 我是thomaswcy。今天，我来教你如何运用 sysupgrade 命令对软路由进行升级固件的操作。
 # 需要的软件
 WinScp 下载链接 https://wws.lanzous.com/ivi2ql56mod
@@ -31,4 +30,4 @@ sysupgrade tmp/<你的文件名>.img
 还有一件事，我特别建议你给骷髅大佬端杯茶
 
 小统计
-[![Stargazers over time](https://starchart.cc/thomaswcy/op-direct-upgrade.svg)](https://starchart.cc/thomaswcy/op-direct-upgrade)
+[![Page Views Count](https://badges.toozhao.com/badges/01EXDGR6YMQMV2P89D6WS7EW3Q/green.svg)](https://badges.toozhao.com/stats/01EXDGR6YMQMV2P89D6WS7EW3Q "Get your own page views count badge on badges.toozhao.com")
