@@ -28,3 +28,6 @@ sysupgrade tmp/<你的文件名>.img
 本文作者thomaswcy，在此特别感谢所有对OpenWrt/LEDE有贡献的大佬（Lean，骷髅大佬，东东，...）
 ```
 还有一件事，我特别建议你给骷髅大佬端杯茶
+
+小统计
+[![Stargazers over time](https://starchart.cc/thomaswcy/op-direct-upgrade.svg)](https://starchart.cc/thomaswcy/op-direct-upgrade)
